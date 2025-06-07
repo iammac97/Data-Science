@@ -1,0 +1,14 @@
+# Ignore Python cache and virtualenv
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Node.js
+node_modules/
+dist/
+npm-debug.log
+
+# OS & editor files
+.DS_Store
+.vscode/
