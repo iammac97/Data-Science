@@ -12,4 +12,3 @@ npm-debug.log
 # OS & editor files
 .DS_Store
 .vscode/
-/test.txt
